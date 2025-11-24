@@ -169,12 +169,6 @@ This is an educational project. If you build something cool using these techniqu
 
 This project is created for educational purposes as part of the DeepLearning.AI course catalog.
 
-## Acknowledgments
-
-- **Andrew Ng** - Course instructor and creator
-- **DeepLearning.AI** - Course platform and resources
-- **Summer Ela** - Course development and curriculum design
-
 ## Questions?
 
 Visit [DeepLearning.AI](https://www.deeplearning.ai) for course enrollment and support.
